@@ -79,7 +79,7 @@ Classification Report
 
 Performance analysis across emotion classes
 
-### 📊 Results
+### Results
 
 The model successfully classified emotions from text with good accuracy, demonstrating how traditional machine learning algorithms can perform effectively on NLP classification tasks when combined with proper preprocessing and feature engineering.
 
