@@ -83,6 +83,6 @@ Performance analysis across emotion classes
 
 The model successfully classified emotions from text with good accuracy, demonstrating how traditional machine learning algorithms can perform effectively on NLP classification tasks when combined with proper preprocessing and feature engineering.
 
-### 🎯 Conclusion
+### Conclusion
 
 This project demonstrates a complete NLP workflow for emotion detection, starting from raw text preprocessing to feature extraction and model evaluation. It highlights how structured NLP techniques and classical machine learning models can be effectively used to derive meaningful insights from unstructured text data.
